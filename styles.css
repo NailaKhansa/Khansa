@@ -1,0 +1,50 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  background-color: #ffe4e1;
+  color: #333;
+}
+
+.header {
+  text-align: center;
+  background-color: #ff9aa2;
+  color: white;
+  padding: 20px;
+}
+
+.header .profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+h1, h2 {
+  margin: 10px 0;
+}
+
+main {
+  padding: 20px;
+}
+
+.about, .skills, .portfolio, .contact {
+  margin-bottom: 40px;
+}
+
+.about p, .contact p {
+  line-height: 1.6;
+}
+
+.skills ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: #ff758f;
+  color: white;
+  padding: 10px 0;
+  font-size: 14px;
+}
